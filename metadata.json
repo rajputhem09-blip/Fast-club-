@@ -1,0 +1,6 @@
+{
+  "name": "Khelv",
+  "description": "Real-time gaming, lottery, lucky spin rewards, VIP club and wallet platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
